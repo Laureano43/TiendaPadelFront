@@ -1,0 +1,19 @@
+.contenedor{
+    width: 100%;
+    margin-top:10px;
+    /*margin-bottom: 100px;*/       
+    display: grid;
+}
+
+.hijo{
+    width:80%;
+    font-size:20px;
+    font-weight: 50px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom:50px;
+}    
+
+.form-select{
+    margin-bottom: 13px;
+}

@@ -1,0 +1,16 @@
+.recuadro{
+    margin-right: auto;
+    margin-left: auto;
+    width: 100%;
+    margin-bottom: 10px;       
+    display: grid;
+    
+}
+
+.recuadro2{
+    margin-right: auto;
+    margin-left: auto;
+    width: 60%;
+    margin-bottom: 100px;       
+    display: grid;
+}

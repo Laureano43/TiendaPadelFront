@@ -1,0 +1,28 @@
+.recuadro{
+    width: 100%;
+    margin-bottom: 10px;       
+    display: grid;
+}
+
+.titulo{
+    font-size:30px;
+    font-weight: 200px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 40px;
+}
+
+.recuadro2{
+    width: 100%;
+    margin-bottom: 100px;       
+    display: grid;
+}
+
+.titulo2{
+    width:80%;
+    font-size:20px;
+    font-weight: 50px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom:20px;
+}

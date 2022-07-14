@@ -1,0 +1,39 @@
+.TextoPie{
+    font-size: 20px;
+    margin-left:100px;
+    margin-top:15px;
+    /*font-family: 'Indie Flower', cursive;*/
+    font-family:Arial, Helvetica, sans-serif;
+    color: white;
+}
+.IG{
+    /*position: absolute;*/
+    height:30px;
+    align-self: center;
+    margin-right:100px;
+}
+.FB{
+    height:30px;
+    align-self: center;
+    margin-right:10px;
+}
+
+.Pie{
+    /*position:relative;*/
+    position:fixed;
+    bottom:0;
+    height: 40px;
+    width: 100%;
+    margin-top:40px;
+    margin-bottom: 0px;
+    /*background-color: #0d6efd;*/
+    /*background-color:#92CB2C;*/
+    /*background-color:#AFCA88;
+    background-color: #212529;*/
+    background-color: #434343;
+  }
+  .Padre{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+  }
